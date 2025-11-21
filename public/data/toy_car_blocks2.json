@@ -1,0 +1,370 @@
+[
+    {
+        "name": "polysurface253_tx_nex_mur_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface253_txt_poutrev_base_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface253_txt_truc_en_pierrebas_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface253_txt_chem1_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface253_txt_poutreh_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface253_txt_cube1_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface253_txt_poutre_inc_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface253_txt_poutre_toit_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface253_txt_toit_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface253_txt_esca_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface253_txt_ptitruc_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface253_txt_fenetre_new_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface253_txt_porte_new1_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface253_txt_sol1_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface253_mur_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface580_txt_truc_en_pierrebas_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface580_txt_toit_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface580_mur_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface580_txt_poutrev_base_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface580_txt_fenetre_new_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface580_txt_poutreh_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface580_tx_nex_mur_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface580_txt_poutre_toit_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface580_txt_sol1_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface580_txt_porte_new1_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface580_txt_cube1_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface580_txt_esca_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface580_txt_chem1_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface580_txt_poutre_inc_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface580_txt_ptitruc_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface526_txt_truc_en_pierrebas_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface526_txt_fenetre_new_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface526_txt_poutreh_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface526_txt_chem1_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface526_txt_toit_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface526_tx_nex_mur_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface526_mur_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface526_txt_poutre_toit_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface526_txt_poutrev_base_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface526_txt_poutre_inc_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface526_txt_esca_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface526_txt_porte_new1_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface526_txt_cube1_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface526_txt_sol1_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "polysurface526_txt_ptitruc_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    },
+    {
+        "name": "pcylinder1_txt_herbe_0_lev1_lev2",
+        "x": 0.0,
+        "y": 0.06968140602111816,
+        "z": -0.0,
+        "level": 2,
+        "role": "default"
+    }
+]

@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Juego 3D</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #f5f7fa;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .login-container {
+            background: white;
+            padding: 50px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            max-width: 420px;
+            width: 100%;
+            border: 1px solid #e1e4e8;
+        }
+
+        .logo {
+            text-align: center;
+            margin-bottom: 35px;
+        }
+
+        .logo h1 {
+            color: #2c3e50;
+            font-size: 1.8rem;
+            margin-bottom: 8px;
+            font-weight: 600;
+            letter-spacing: -0.5px;
+        }
+
+        .logo p {
+            color: #6c757d;
+            font-size: 0.9rem;
+        }
+
+        .tabs {
+            display: flex;
+            margin-bottom: 30px;
+            border-bottom: 1px solid #e1e4e8;
+        }
+
+        .tab {
+            flex: 1;
+            padding: 12px;
+            text-align: center;
+            cursor: pointer;
+            color: #6c757d;
+            font-weight: 500;
+            transition: all 0.2s;
+            border-bottom: 2px solid transparent;
+            font-size: 0.95rem;
+        }
+
+        .tab.active {
+            color: #2c3e50;
+            border-bottom: 2px solid #2c3e50;
+        }
+
+        .form-container {
+            display: none;
+        }
+
+        .form-container.active {
+            display: block;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            color: #2c3e50;
+            font-weight: 500;
+            font-size: 0.9rem;
+        }
+
+        input {
+            width: 100%;
+            padding: 11px 14px;
+            border: 1px solid #ced4da;
+            border-radius: 4px;
+            font-size: 14px;
+            transition: all 0.2s;
+            background: #ffffff;
+        }
+
+        input:focus {
+            outline: none;
+            border-color: #495057;
+            box-shadow: 0 0 0 0.2rem rgba(44, 62, 80, 0.1);
+        }
+
+        button {
+            width: 100%;
+            padding: 13px;
+            background: #2c3e50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            font-size: 15px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: background 0.2s;
+            margin-top: 10px;
+        }
+
+        button:hover {
+            background: #1a252f;
+        }
+
+        button:active {
+            background: #0d1419;
+        }
+
+        button:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+
+        .message {
+            padding: 12px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            display: none;
+        }
+
+        .message.show {
+            display: block;
+        }
+
+        .message.success {
+            background: #e8f5e9;
+            color: #2e7d32;
+            border: 1px solid #c8e6c9;
+        }
+
+        .message.error {
+            background: #ffebee;
+            color: #c62828;
+            border: 1px solid #ef9a9a;
+        }
+
+        .loading {
+            display: none;
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .loading.show {
+            display: block;
+        }
+
+        .spinner {
+            border: 3px solid #e1e4e8;
+            border-top: 3px solid #2c3e50;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .info-text {
+            text-align: center;
+            color: #6c757d;
+            font-size: 0.85rem;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="login-container">
+        <div class="logo">
+            <h1>Juego 3D</h1>
+            <p>Inicia sesión para jugar y guardar tu progreso</p>
+        </div>
+
+        <div class="tabs">
+            <div class="tab active" onclick="switchTab('login')">Iniciar Sesión</div>
+            <div class="tab" onclick="switchTab('register')">Registrarse</div>
+        </div>
+
+        <div id="message" class="message"></div>
+
+        <!-- Formulario de Login -->
+        <div id="loginForm" class="form-container active">
+            <form onsubmit="handleLogin(event)">
+                <div class="form-group">
+                    <label for="loginEmail">Email</label>
+                    <input 
+                        type="email" 
+                        id="loginEmail" 
+                        placeholder="tu@email.com"
+                        required
+                    >
+                </div>
+                <div class="form-group">
+                    <label for="loginPassword">Contraseña</label>
+                    <input 
+                        type="password" 
+                        id="loginPassword" 
+                        placeholder="Tu contraseña"
+                        required
+                    >
+                </div>
+                <button type="submit">Iniciar Sesión</button>
+            </form>
+        </div>
+
+        <!-- Formulario de Registro -->
+        <div id="registerForm" class="form-container">
+            <form onsubmit="handleRegister(event)">
+                <div class="form-group">
+                    <label for="registerName">Nombre</label>
+                    <input 
+                        type="text" 
+                        id="registerName" 
+                        placeholder="Tu nombre"
+                        minlength="3"
+                        required
+                    >
+                </div>
+                <div class="form-group">
+                    <label for="registerEmail">Email</label>
+                    <input 
+                        type="email" 
+                        id="registerEmail" 
+                        placeholder="tu@email.com"
+                        required
+                    >
+                </div>
+                <div class="form-group">
+                    <label for="registerPassword">Contraseña</label>
+                    <input 
+                        type="password" 
+                        id="registerPassword" 
+                        placeholder="Mínimo 6 caracteres"
+                        minlength="6"
+                        required
+                    >
+                </div>
+                <button type="submit">Registrarse</button>
+            </form>
+        </div>
+
+        <div class="loading" id="loading">
+            <div class="spinner"></div>
+            <p style="margin-top: 10px; color: #666;">Cargando...</p>
+        </div>
+
+        <div class="info-text">
+            El email puede ser ficticio 😉
+        </div>
+    </div>
+
+    <script>
+        const API_URL = 'http://localhost:3001/api';
+
+        // Cambiar entre tabs
+        function switchTab(tab) {
+            document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+            document.querySelectorAll('.form-container').forEach(f => f.classList.remove('active'));
+            
+            if (tab === 'login') {
+                document.querySelector('.tab:first-child').classList.add('active');
+                document.getElementById('loginForm').classList.add('active');
+            } else {
+                document.querySelector('.tab:last-child').classList.add('active');
+                document.getElementById('registerForm').classList.add('active');
+            }
+            
+            hideMessage();
+        }
+
+        // Mostrar mensaje
+        function showMessage(text, type = 'success') {
+            const messageEl = document.getElementById('message');
+            messageEl.textContent = text;
+            messageEl.className = `message ${type} show`;
+        }
+
+        // Ocultar mensaje
+        function hideMessage() {
+            document.getElementById('message').classList.remove('show');
+        }
+
+        // Mostrar/ocultar loading
+        function setLoading(show) {
+            document.getElementById('loading').classList.toggle('show', show);
+            document.querySelectorAll('button').forEach(btn => btn.disabled = show);
+        }
+
+        // Guardar autenticación
+        function saveAuth(data) {
+            localStorage.setItem('token', data.token);
+            localStorage.setItem('userName', data.name);
+            localStorage.setItem('userId', data._id);
+            localStorage.setItem('highestScore', data.highestScore || 0);
+        }
+
+        // Manejar login
+        async function handleLogin(event) {
+            event.preventDefault();
+            hideMessage();
+            setLoading(true);
+
+            const email = document.getElementById('loginEmail').value;
+            const password = document.getElementById('loginPassword').value;
+
+            try {
+                const response = await fetch(`${API_URL}/auth/login`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ email, password })
+                });
+
+                const data = await response.json();
+
+                if (data.success) {
+                    saveAuth(data.data);
+                    showMessage('¡Inicio de sesión exitoso! Redirigiendo...', 'success');
+                    
+                    setTimeout(() => {
+                        // Aquí redirige a tu juego
+                        window.location.href = './index.html'; // Cambia esto a tu página de juego
+                    }, 1500);
+                } else {
+                    showMessage(data.message || 'Error al iniciar sesión', 'error');
+                }
+            } catch (error) {
+                showMessage('Error de conexión. Verifica que el servidor esté corriendo.', 'error');
+                console.error('Error:', error);
+            } finally {
+                setLoading(false);
+            }
+        }
+
+        // Manejar registro
+        async function handleRegister(event) {
+            event.preventDefault();
+            hideMessage();
+            setLoading(true);
+
+            const name = document.getElementById('registerName').value;
+            const email = document.getElementById('registerEmail').value;
+            const password = document.getElementById('registerPassword').value;
+
+            try {
+                const response = await fetch(`${API_URL}/auth/register`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ name, email, password })
+                });
+
+                const data = await response.json();
+
+                if (data.success) {
+                    saveAuth(data.data);
+                    showMessage('¡Registro exitoso! Redirigiendo...', 'success');
+                    
+                    setTimeout(() => {
+                        // Aquí redirige a tu juego
+                        window.location.href = './index.html'; // Cambia esto a tu página de juego
+                    }, 1500);
+                } else {
+                    if (data.errors) {
+                        showMessage(data.errors.map(e => e.msg).join(', '), 'error');
+                    } else {
+                        showMessage(data.message || 'Error al registrar', 'error');
+                    }
+                }
+            } catch (error) {
+                showMessage('Error de conexión. Verifica que el servidor esté corriendo.', 'error');
+                console.error('Error:', error);
+            } finally {
+                setLoading(false);
+            }
+        }
+
+        // Verificar si ya está autenticado al cargar
+        window.onload = () => {
+            const token = localStorage.getItem('token');
+            const userName = localStorage.getItem('userName');
+            
+            if (token && userName) {
+                showMessage(`Ya has iniciado sesión como ${userName}. Redirigiendo...`, 'success');
+                setTimeout(() => {
+                    window.location.href = './index.html'; // Cambia esto a tu página de juego
+                }, 2000);
+            }
+        };
+    </script>
+</body>
+</html>

@@ -1,0 +1,1522 @@
+[
+    {
+        "name": "buildig.001_peeling_paint_(concrete)_(white)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_metal_(dark)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_white_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_wood_(shine)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_metal_(matte)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_black_(all)_(matte)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_peeling_paint_(metal)_(black)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_clay_(blue)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_clay_(gray)_(deform)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_concrete_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_white_(lighting)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_peeling_paint_(metal)_(white)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_wood_(light)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_wood_(light)_(red)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_clay_(gray)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_moss_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_clay_(gray).001_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_metal_(scratched)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_peeling_paint_(concrete)_(white)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_metal_(dark)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_white_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_wood_(shine)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_metal_(matte)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_black_(all)_(matte)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_clay_(blue)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_clay_(gray)_(deform)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_white_(lighting)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_concrete_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_clay_(gray)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_moss_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_peeling_paint_(metal)_(black)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_clay_(gray).001_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_clay_(red)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_brown_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_green_(grass)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_peeling_paint_(metal)_(white)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_wood_(light)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_wood_(light)_(red)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_metal_(scratched)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_peeling_paint_(concrete)_(white)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_metal_(dark)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_white_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_peeling_paint_(metal)_(black)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_metal_(matte)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_wood_(shine)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_black_(all)_(matte)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_clay_(blue)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_clay_(gray)_(deform)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_white_(lighting)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_clay_(gray)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_moss_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_clay_(gray).001_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_metal_(scratched)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_peeling_paint_(metal)_(white)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_wood_(light)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_wood_(light)_(red)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_clay_(red)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_brown_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_green_(grass)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_peeling_paint_(concrete)_(white)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_black_(all)_(matte)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_wood_(shine)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_metal_(matte)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_clay_(gray)_(deform)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_white_(lighting)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_concrete_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_clay_(gray)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_moss_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_clay_(gray).001_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_metal_(scratched)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_peeling_paint_(metal)_(white)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_wood_(light)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_wood_(light)_(red)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_white_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "cable_black_(all)_(matte)_0_lev3",
+        "x": 0.0,
+        "y": 1.23818838596344,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "crosswalk_black_(all)_(matte)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "crosswalk_white_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "crosswalk.001_black_(all)_(matte)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "crosswalk.001_white_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "eletric_(pole)_wood_(light)_(table)_(dirty)_0_lev3",
+        "x": 0.0,
+        "y": 1.23818838596344,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "eletric_(pole)_metal_(matte)_0_lev3",
+        "x": 0.0,
+        "y": 1.23818838596344,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "eletric_(pole)_(transformer)_wood_(light)_(table)_(dirty)_0_lev",
+        "x": 0.0,
+        "y": 1.23818838596344,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "eletric_(pole)_(transformer)_metal_(matte)_0_lev3",
+        "x": 0.0,
+        "y": 1.23818838596344,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "eletric_(pole)_(transformer)_lighting_poster_0_lev3",
+        "x": 0.0,
+        "y": 1.23818838596344,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "light_(pole)_metal_(scratched)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "light_(pole)_concrete_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "ground_black_(all)_(matte)_0_lev3",
+        "x": -5.8470139503479,
+        "y": 0.0,
+        "z": -0.19760745763778687,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "crosswalk.002_black_(all)_(matte)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "crosswalk.002_white_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "sidewalk.c_clay_(gray).001_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "sidewalk.c_clay_(gray)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "sidewalk.h_clay_(gray)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "sidewalk.h_clay_(gray).001_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "sidewalk.v_clay_(gray)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "sidewalk.v_clay_(gray).001_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "street.c_black_(all)_(matte)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "street.v_h_black_(all)_(matte)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "eletric_(pole).001_wood_(light)_(table)_(dirty)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "eletric_(pole).001_metal_(matte)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "eletric_(pole)_(transformer).001_wood_(light)_(table)_(dirty)_0",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "eletric_(pole)_(transformer).001_metal_(matte)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "eletric_(pole)_(transformer).001_lighting_poster_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "light_(pole).001_metal_(scratched)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "light_(pole).001_concrete_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "cable.001_black_(all)_(matte)_0_lev3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "light_(pole)_metal_(scratched)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "light_(pole)_concrete_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "eletric_(pole)_wood_(light)_(table)_(dirty)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 1.23818838596344,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "eletric_(pole)_metal_(matte)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 1.23818838596344,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "eletric_(pole)_(transformer)_wood_(light)_(table)_(dirty)_0.001",
+        "x": -13.694986343383789,
+        "y": 1.23818838596344,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "eletric_(pole)_(transformer)_metal_(matte)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 1.23818838596344,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "eletric_(pole)_(transformer)_lighting_poster_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 1.23818838596344,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "crosswalk_white_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "crosswalk_black_(all)_(matte)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "crosswalk.001_white_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "crosswalk.001_black_(all)_(matte)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "cable_black_(all)_(matte)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 1.23818838596344,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_wood_(shine)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_wood_(light)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_wood_(light)_(red)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_white_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_white_(lighting)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_peeling_paint_(metal)_(white)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_peeling_paint_(concrete)_(white)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_moss_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_metal_(scratched)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_metal_(matte)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_concrete_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_clay_(gray)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_clay_(gray).001_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_clay_(gray)_(deform)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.004_black_(all)_(matte)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_wood_(shine)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_wood_(light)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_wood_(light)_(red)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_white_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_white_(lighting)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_peeling_paint_(metal)_(white)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_peeling_paint_(metal)_(black)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_peeling_paint_(concrete)_(white)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_moss_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_metal_(scratched)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_metal_(matte)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_metal_(dark)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_green_(grass)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_clay_(red)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_clay_(gray)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_clay_(gray).001_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_clay_(gray)_(deform)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_clay_(blue)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_brown_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.003_black_(all)_(matte)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_wood_(shine)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_wood_(light)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_wood_(light)_(red)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_white_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_white_(lighting)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_peeling_paint_(metal)_(white)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_peeling_paint_(metal)_(black)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_peeling_paint_(concrete)_(white)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_moss_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_metal_(scratched)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_metal_(matte)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_metal_(dark)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_green_(grass)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_concrete_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_clay_(red)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_clay_(gray)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_clay_(gray).001_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_clay_(gray)_(deform)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_clay_(blue)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_brown_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.002_black_(all)_(matte)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_wood_(shine)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_wood_(light)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_wood_(light)_(red)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_white_(lighting)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_peeling_paint_(metal)_(white)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_peeling_paint_(metal)_(black)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_peeling_paint_(concrete)_(white)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_moss_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_metal_(scratched)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_metal_(matte)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_metal_(dark)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_concrete_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_clay_(gray)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_clay_(gray).001_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_clay_(gray)_(deform)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_clay_(blue)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    },
+    {
+        "name": "buildig.001_black_(all)_(matte)_0.001_lev3",
+        "x": -13.694986343383789,
+        "y": 0.0,
+        "z": -0.0,
+        "level": 3,
+        "role": "default"
+    }
+]
